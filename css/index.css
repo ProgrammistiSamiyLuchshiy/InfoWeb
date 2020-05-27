@@ -1,3 +1,18 @@
-.d-block w-100{
-
+.navbar{
+    background-color: aquamarine;
+}
+.navbar-toggler{
+    border-color: gray;
+    background-color: lightskyblue;
+}
+.text-white{
+    color: lightskyblue !important;
+}
+.p-4{
+    background-color: aquamarine;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    text-decoration-line: none;
 }
