@@ -16,3 +16,10 @@ a{
     text-decoration: none;
     text-decoration-line: none;
 }
+.card{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.col-md-10{
+    width: 70%;
+}
