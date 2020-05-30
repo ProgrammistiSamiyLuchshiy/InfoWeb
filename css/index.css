@@ -23,3 +23,7 @@ a{
 .col-md-10{
     width: 70%;
 }
+#carouselExampleSlidesOnly{
+    height: 300px;
+    max-height: 300px;
+}
